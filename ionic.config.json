@@ -1,0 +1,8 @@
+{
+  "name": "gc-firestarter",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "5291b00f"
+}
